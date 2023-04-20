@@ -1,5 +1,11 @@
 # House_sales_predictor_datasets
-This is a group project in Phase 2.
+**Authors**:
+[Peter Onsomu](https://github.com/pkonsomu2020)
+[James Wainaina](https://github.com/Wainich)
+[Robert Mbau](https://github.com/robertmbau)
+[Kelvin Muriuki](https://github.com/kelvinmuriukih)
+[Paul Machau](https://github.com/paulmachau)
+
 ## PHASE-2 PROJECT README
 ### Project Overview
 For this project, we will use a statistical modelling called multiple linear regression modeling to analyze house sales in a northwestern county. We will work in providing stakeholders with information on how to increase their return on investment and the factors that contribute to get high returns depending on the house features and the house ratings.
@@ -14,3 +20,5 @@ We will be using the King County House Sales dataset for our analysis, which con
 The project already had a proposed model, Multiple Linear Regression Model, we will use the preprocessed data to train it.
 Conclusion:
 Using KC House Data to predict house prices is a challenging and exciting task. By using data on diffret features and characteristics of a house, we will develop a regression model that can accurately predict house prices. This will be a systematic process that entails steps such as preprocessing, model training and model tuning. The insights that will be gaioned from the model can help buyers and sellers to make well informed decisions to their advantage.
+
+
