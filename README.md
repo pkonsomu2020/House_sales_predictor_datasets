@@ -1,9 +1,9 @@
 # House_sales_predictor_datasets
 **Authors**:
-[Peter Onsomu](https://github.com/pkonsomu2020)
-[James Wainaina](https://github.com/Wainich)
-[Robert Mbau](https://github.com/robertmbau)
-[Kelvin Muriuki](https://github.com/kelvinmuriukih)
+[Peter Onsomu](https://github.com/pkonsomu2020),
+[James Wainaina](https://github.com/Wainich),
+[Robert Mbau](https://github.com/robertmbau),
+[Kelvin Muriuki](https://github.com/kelvinmuriukih),
 [Paul Machau](https://github.com/paulmachau)
 
 ## PHASE-2 PROJECT README
